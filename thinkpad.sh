@@ -4,7 +4,7 @@ mkdir ~/.config/konsave/
 
 mkdir ~/.config/konsave/profiles
 
-mv thinkpad.tar.gz ~/.config/konsave/profiles/
+mv ~/konsave/thinkpad.tar.gz ~/.config/konsave/profiles/
 
 tar -xvf ~/.config/konsave/profiles/thinkpad.tar.gz
 
